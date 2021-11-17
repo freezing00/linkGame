@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+#VS编译文件
+.vs
+/x64
+/linkGame/x64
+/linkGame/linkGame.*
+
